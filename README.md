@@ -7,5 +7,8 @@ Son Girilen Feed Urlsini sentItems.json içine yazabilirsiniz, ardından node in
 // Örn:
 
 [
-  "https://www.merlininkazani.com/gears-of-war-remake-haber-124915",
+  "https://www.siteadi.com/haberUrl",
+  "https://www.siteadi.com/haberUrl",
+  "https://www.siteadi.com/haberUrl",
+  "https://www.siteadi.com/haberUrl",
 ]
