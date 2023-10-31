@@ -10,5 +10,5 @@ Son Girilen Feed Urlsini sentItems.json içine yazabilirsiniz, ardından node in
   "https://www.siteadi.com/haberUrl",
   "https://www.siteadi.com/haberUrl",
   "https://www.siteadi.com/haberUrl",
-  "https://www.siteadi.com/haberUrl",
+  "https://www.siteadi.com/haberUrl"
 ]
